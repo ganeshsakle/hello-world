@@ -1,3 +1,2 @@
-# hello-world
+code Snippets
 
-hello this is my firsr repo 
